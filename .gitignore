@@ -1,0 +1,5 @@
+.DS_Store
+*.iso
+*.vhdx
+*.qcow2
+*.utm/
